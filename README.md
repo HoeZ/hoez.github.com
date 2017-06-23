@@ -1,4 +1,5 @@
 # OSS-TermProject
+*2017 spring semester*
 
 # Othello Game (console)
 
@@ -27,9 +28,15 @@ Download and execute othello.exe
 
 ## License
 
-TODO: Write license
+1. GNU General Public License (GPL)
+2. Apache License 2.0
+3. MIT License
+4. BSD License
+5. Artistic License
+6. Eclipse Public License(EPL)
+7. Code Project Open 1.02 License
 
 ## Project Hompage Link
 
-TODO: Write Git Page
+https://github.com/HoeZ/hoez.github.com
                                                               34,1          B
