@@ -37,5 +37,4 @@ Download and execute othello.exe
 
 ## Project Hompage Link
 
-https://github.com/HoeZ/hoez.github.com
-                                                              34,1          B
+https://github.com/HoeZ/hoez.github.com/blob/master/othello.md
