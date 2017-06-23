@@ -1,6 +1,17 @@
-Language : C Language
-Editor : VIM 7.4.1689
-Compiler : gcc version 5.4.0 (Ubuntu 5.4.-6ubuntu1~16.04,4)
+# OSS-TermProject
+
+# Othello Game (console)
+
+This game is a type of board game a.k.a Othello or Reversi
+
+## Built with
+
+1. OS : Win32, Linux
+2. Kernel : Linux 4.4.0-75-generic
+3. Tool : Visual Studio 2017, Ubuntu 16.04.1 LTS, GIT-2.13.1.2
+4. Language : C Language
+5. Editor : VIM 7.4.1689
+6. Compiler : gcc version 5.4.0 (Ubuntu 5.4.-6ubuntu1~16.04,4)
 
 ## How to run game
 
