@@ -1,7 +1,6 @@
-# OSS-TermProject
+# OSS-TermProject : Othello Game (console)
 *2017 spring semester*
 
-# Othello Game (console)
 
 This game is a type of board game a.k.a Othello or Reversi
 
